@@ -1,0 +1,17 @@
+	{
+  "source": [
+    "aws.mediaconvert"
+  ],
+  "detail-type": [
+    "MediaConvert Job State Change"
+  ],
+  "detail": {
+    "status": [
+      "COMPLETE"
+    ],
+    "userMetadata": {
+      "application": [
+        "VOD"
+      ]
+    }
+  }
